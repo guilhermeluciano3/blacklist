@@ -21,3 +21,4 @@ appmetrica.yandex.ru
 metrika.yandex.ru
 advertising.yandex.ru
 advertising.apple.com
+ads-sg.tiktok.com
